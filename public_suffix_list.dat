@@ -13754,6 +13754,10 @@ user.srcf.net
 // Submitted by Dan Miller <dm@sub6.com>
 temp-dns.com
 
+// Su.mt : https://su.mt
+// Submitted by Hayden NG <hng@su.mt>
+*.su.mt
+
 // Supabase : https://supabase.io
 // Submitted by Inian Parameshwaran <security@supabase.io>
 supabase.co
